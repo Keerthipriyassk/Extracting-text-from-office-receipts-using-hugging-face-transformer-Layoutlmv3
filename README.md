@@ -1,0 +1,1 @@
+# Extracting-text-from-office-receipts-using-hugging-face-transformer-Layoutlmv3
